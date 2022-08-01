@@ -20,6 +20,7 @@ It has sample contract, a test for that contract, and a script that deploys that
 
 ```
 
+
 ```
                                       Procedure For Running The Project:
 
@@ -37,7 +38,9 @@ Step:5-> In 3rd terminal , run these commands
 Step:6-> In 4th terminal , run these commands
          npm run dev
 ```
-                                      Detail Description of the project:
+
+
+                                      **Detail Description of the project:**
                                       
 ##Seller will list the product on e-commerce site and along with an NFT will be created at NFT market place for products 
 with product details, name, description, ownership, warranty details, photo etc.
@@ -84,23 +87,29 @@ After the warranty of the product is over, its Data from the database will be  d
 
 <img width="703" alt="Decay_NFT_Feature" src="https://user-images.githubusercontent.com/55627604/182218439-4e3c62ee-6e97-41f3-a2b5-9e5b2cb9efdb.png">
 
-```
 
 
+
 ```
-                                                        Future Scope(Improvement Areas):
+                                                 Future Scope(Improvement Areas):
                                                         
 ##The whole NFT marketplace should be integrated with e-commerce main site.
 
-##Two QR code scanner needs to be implemented at e-commerce site, one for checking authenticity of products and second for verifying warranty of     products.
+##Two QR code scanner needs to be implemented at e-commerce site, 
+one for checking authenticity of products and second for verifying warranty of products.
 
-##Two automated function also needs to be implemented at e-commerce site , one for Ownership transfer when customer confirms to take the product and second to decay the NFT after its warranty is over.
+##Two automated function also needs to be implemented at e-commerce site , 
+one for Ownership transfer when customer confirms to take the product and second to decay the NFT after its warranty is over.
 
-##We can also use this system to do the business related to second hand/used products as their ownership details and all other details will always be visible to everyone.
+##We can also use this system to do the business related to second hand/used 
+products as their ownership details and all other details will always be visible to everyone.
 
 ```
 
+**Project Video Here::**  
 
 
-https://user-images.githubusercontent.com/55627604/182221112-70d3936e-9981-4b45-9a3a-d263e5da554c.mp4
+
+https://user-images.githubusercontent.com/55627604/182227785-69eb9708-39ee-45b5-a0c4-92e65314a863.mp4
+
 
